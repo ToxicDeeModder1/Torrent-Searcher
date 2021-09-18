@@ -8,9 +8,9 @@
       "torrent",
       "python"
     ],
-    "repository": "https://github.com/devillD/Torrent-Searcher.git",
-    "website": "https://t.me/trntsrcbot",
-    "success_url": "https://t.me/trntsrcbot",
+    "repository": "https://github.com/ToxicDeeModder1/Torrent-Searcher.git",
+    "website": "https://t.me/NarutoXTorrentBot",
+    "success_url": "https://t.me/NarutoXTorrentBot",
     "stack": "container",
     "env": {
       "BOT_TOKEN": {
